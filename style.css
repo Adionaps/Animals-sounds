@@ -1,0 +1,29 @@
+.headerdiv{
+    background-color: rgb(240, 233, 21);
+    color: red;
+}
+.maindiv{
+    background-color: rgb(72, 197, 228);
+
+}
+
+.maindiv button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.headerdiv h2{
+    font-family: 'Oswald', sans-serif;
+}
+.copyrightfooter{
+    position: fixed;
+    color:gray;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: whitesmoke;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+}
